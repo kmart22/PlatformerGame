@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformerGame", "PlatformerGame\PlatformerGame.csproj", "{4DE18B33-5B24-40D4-837B-D8782020260F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5CCE8664-E450-4CBE-82FE-8EF7EC7B154C}"
+	ProjectSection(SolutionItems) = preProject
+		PlatformerGame.sln = PlatformerGame.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE18B33-5B24-40D4-837B-D8782020260F}.Debug|x86.ActiveCfg = Debug|x86
+		{4DE18B33-5B24-40D4-837B-D8782020260F}.Debug|x86.Build.0 = Debug|x86
+		{4DE18B33-5B24-40D4-837B-D8782020260F}.Release|x86.ActiveCfg = Release|x86
+		{4DE18B33-5B24-40D4-837B-D8782020260F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
