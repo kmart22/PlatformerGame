@@ -205,7 +205,6 @@ namespace Platformer.Model
                     return LoadEnemyTile(x, y, "MonsterC");
                 case 'D':
                     return LoadEnemyTile(x, y, "MonsterD");
-
                 // Platform block
                 case '~':
                     return LoadVarietyTile("BlockB", 2, TileCollision.Platform);

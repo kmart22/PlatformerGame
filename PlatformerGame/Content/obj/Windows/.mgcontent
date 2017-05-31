@@ -50,5 +50,9 @@
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/Player/Idle.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/Player/Die.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/Player/Celebrate.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Run.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Celebrate.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Idle.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Die.png</File>
   </SourceFiles>
 </SourceFileCollection>

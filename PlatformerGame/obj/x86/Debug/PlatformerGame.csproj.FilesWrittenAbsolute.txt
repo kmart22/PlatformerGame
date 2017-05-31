@@ -73,3 +73,9 @@
 /Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Tiles/BlockB1.xnb
 /Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Tiles/Exit.xnb
 /Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Tiles/Platform.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/nakedMan/Run.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/nakedMan/Idle.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/nakedMan/Celebrate.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/nakedMan/Die.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/Ghost/Idle.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/Ghost/Run.xnb
