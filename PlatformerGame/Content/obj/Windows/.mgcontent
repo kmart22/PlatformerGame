@@ -39,7 +39,6 @@
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Tiles/BlockA0.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterA/Run.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterA/Idle.png</File>
-    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterB/Run.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterB/Idle.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterC/Run.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterC/Idle.png</File>
@@ -54,5 +53,8 @@
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Celebrate.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Idle.png</File>
     <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/nakedMan/Die.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Sprites/MonsterB/Run.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Backgrounds/BitSpace.png</File>
+    <File>/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/Content/Backgrounds/PrettyScene.jpeg</File>
   </SourceFiles>
 </SourceFileCollection>

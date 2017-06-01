@@ -79,3 +79,5 @@
 /Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/nakedMan/Die.xnb
 /Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/Ghost/Idle.xnb
 /Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Sprites/Ghost/Run.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Backgrounds/BitSpace.xnb
+/Users/kmar7070/Projects/PlatformerGame/PlatformerGame/bin/Debug/Content/Backgrounds/PrettyScene.xnb

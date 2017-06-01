@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{4DE18B33-5B24-40D4-837B-D8782020260F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Model/Enemy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Model/Level.cs">
     <Files>
       <File FileName="../../../../Library/Frameworks/MonoGame.framework/v3.6.0.1625/MonoGame.Content.Builder.targets" Line="1" Column="1" />
       <File FileName="PlatformerGame/Controller/PlatformerGame.cs" Line="18" Column="21" />
       <File FileName="PlatformerGame/Controller/Program.cs" Line="24" Column="3" />
-      <File FileName="PlatformerGame/Model/Enemy.cs" Line="17" Column="2" />
-      <File FileName="PlatformerGame/Model/Level.cs" Line="479" Column="38" />
-      <File FileName="PlatformerGame/Model/Player.cs" Line="28" Column="19" />
+      <File FileName="PlatformerGame/Model/Enemy.cs" Line="28" Column="18" />
+      <File FileName="PlatformerGame/Model/Level.cs" Line="207" Column="60" />
+      <File FileName="PlatformerGame/Model/Player.cs" Line="147" Column="64" />
       <File FileName="PlatformerGame/Model/RectangleExtensions.cs" Line="15" Column="18" />
       <File FileName="PlatformerGame/Model/Tile.cs" Line="14" Column="27" />
-      <File FileName="PlatformerGame/View/Animation.cs" Line="13" Column="26" />
+      <File FileName="PlatformerGame/View/Animation.cs" Line="5" Column="41" />
       <File FileName="PlatformerGame/View/AnimationPlayer.cs" Line="20" Column="6" />
       <File FileName="PlatformerGame/View/Gem.cs" Line="34" Column="17" />
     </Files>

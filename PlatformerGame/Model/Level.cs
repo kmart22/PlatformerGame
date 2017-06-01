@@ -107,7 +107,8 @@ namespace Platformer.Model
             {
                 // Choose a random segment if each background layer for level variety.
                 int segmentIndex = levelIndex;
-                layers[i] = Content.Load<Texture2D>("Backgrounds/Layer" + i + "_" + segmentIndex);
+               // layers[i] = Content.Load<Texture2D>("Backgrounds/Layer" + i + "_" + segmentIndex);
+				layers[i] = Content.Load<Texture2D>("Backgrounds/PrettyScene");
             }
 
             // Load sounds.
