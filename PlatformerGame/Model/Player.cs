@@ -67,7 +67,7 @@ namespace Platformer.Model
 
 		// Constants for controling horizontal movement
 		//private const float MoveAcceleration = 13000.0f;
-		private const float MoveAcceleration = 30000.0f;
+		private const float MoveAcceleration = 22000.0f;
 		//private const float MaxMoveSpeed = 1750.0f;
 		private const float MaxMoveSpeed = 40000.0f;
 		private const float GroundDragFactor = 0.48f;
@@ -76,7 +76,7 @@ namespace Platformer.Model
 		// Constants for controlling vertical movement
 		private const float MaxJumpTime = 0.35f;
 		//private const float JumpLaunchVelocity = -3500.0f;
-		private const float JumpLaunchVelocity = -6500.0f;
+		private const float JumpLaunchVelocity = -4500.0f;
 		private const float GravityAcceleration = 3400.0f;
 		private const float MaxFallSpeed = 550.0f;
 		private const float JumpControlPower = 0.14f;
